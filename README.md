@@ -12,4 +12,4 @@ An issue observed with the method used is that the sum of the two least probabil
 
 
 ## Next steps
-The next part of the project is to correctly track the path of each probability event across the tree with binary digits, and produce the final codebook. At each iteration of the algorithm, only the current least probabilities need to be tracked and labeled with a digit. Ideally, these digits would be displayed upon the tree branch.
+The next part of the project is to correctly track the path of each probability event across the tree with binary digits, and produce the final codebook. At each iteration of the algorithm, only the current least probabilities need to be tracked and labeled with a digit.
